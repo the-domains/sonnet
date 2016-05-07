@@ -1,0 +1,28 @@
+name: Stories of Sonnet
+favicon: null
+layout_spectrum: 0.1510523788165301
+typography_spectrum: 0.6166974527295679
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8533553008455783
+  lightness: 0.030091490363702178
+  saturation: 0.7634687258396298
+  rhythmicContrast: 0.16055571078322828
+purpose: []
