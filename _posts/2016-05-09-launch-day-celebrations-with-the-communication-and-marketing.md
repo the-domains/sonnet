@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Launch day celebrations with the communication and marketing teams
-datePublished: '2016-05-09T19:31:59.470Z'
-dateModified: '2016-05-09T19:30:59.756Z'
+datePublished: '2016-05-09T19:36:11.577Z'
+dateModified: '2016-05-09T19:32:07.808Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-09-launch-day-celebrations-with-the-communication-and-marketing.md
