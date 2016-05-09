@@ -4,11 +4,12 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: 'Watching website analytics in real-time right after launch '
-datePublished: '2016-05-09T19:16:22.131Z'
-dateModified: '2016-05-09T19:16:14.267Z'
+description: Watching website analytics in real-time right after launch
+datePublished: '2016-05-09T19:30:31.524Z'
+dateModified: '2016-05-09T19:16:30.982Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-09-watching-website-analytics-in-real-time-right-after-launch.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-09-watching-website-analytics-in-real-time-right-after-launch.md
 url: watching-website-analytics-in-real-time-right-after-launch/index.html
 _type: Article
 
