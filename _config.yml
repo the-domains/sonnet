@@ -2,12 +2,13 @@ name: Stories of Sonnet
 favicon: null
 layout_spectrum: 0.1510523788165301
 typography_spectrum: 0.6166974527295679
+title: Building an insurance experience for the connected consumer
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-77461390-1
   facebook: null
   twitter: null
 opengraph:
